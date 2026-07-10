@@ -6,5 +6,19 @@
     "name": "Local Workspace"
   },
   "repository": "https://github.com/pmalliance/product-marketing-skills",
-  "license": "MIT"
+  "license": "MIT",
+  "skills": [
+    "product-marketing-context",
+    "messaging-positioning",
+    "competitive-intelligence",
+    "customer-research",
+    "pricing-packaging",
+    "go-to-market",
+    "win-loss-reasons",
+    "objection-library",
+    "message-consistency-check",
+    "positioning-map",
+    "claim-check",
+    "customer-language-bank"
+  ]
 }

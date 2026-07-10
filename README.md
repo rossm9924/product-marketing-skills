@@ -54,6 +54,33 @@ Do not look for unpacked `SKILL.md` folders in this repo. The shipped artifacts 
 4. Build pricing and packaging guidance.
 5. Turn that strategy into a GTM plan.
 
+## The PMM Signal Pack
+
+Built for Claude Fable 5. Six skills for the evidence-heavy side of product
+marketing - reading everything you already have and pulling the signal out of
+it. Where the skills above help you produce (positioning, messaging,
+competitive, research, pricing, GTM), the Signal Pack helps you see: point it
+at your call transcripts, reviews, competitor pages, and your own copy, and it
+returns a structured, sourced read of it. Fable 5's 1M-token context window can
+hold your whole evidence base in a single run, which is what these jobs need.
+Each skill also carries a fallback for everyday models.
+
+- `win-loss-reasons` - the real reasons you win and lose, what buyers said vs
+  what the pattern shows, ranked and cited to the calls
+- `objection-library` - every buyer objection, in their words, ranked by
+  frequency and tagged to funnel stage
+- `message-consistency-check` - where your core message says different things
+  across your live surfaces
+- `positioning-map` - the whole competitive field side by side, crowded claims
+  and unclaimed angles
+- `claim-check` - every claim in your messaging checked against your evidence,
+  flagging the ones running on faith
+- `customer-language-bank` - the exact words buyers use, ranked, mapped against
+  your current copy
+
+To install: download this repo, then drop the `pmm-signal-pack` folder into
+your Claude skills directory. Full details in `pmm-signal-pack/README.md`.
+
 ## Notes
 
 - This repo ships 6 PMM skills.

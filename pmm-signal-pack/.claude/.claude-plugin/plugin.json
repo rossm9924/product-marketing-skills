@@ -1,0 +1,16 @@
+{
+  "name": "pmm-signal-pack",
+  "version": "1.0.0",
+  "description": "The PMM Signal Pack - six Claude skills for evidence-heavy product marketing: win/loss reasons, objection library, message consistency, positioning map, claim check, and customer language bank. Built for Claude Fable 5's large context, with an everyday-model fallback in every skill.",
+  "author": "Product Marketing Alliance",
+  "license": "MIT",
+  "homepage": "https://productmarketingalliance.com",
+  "skills": [
+    "win-loss-reasons",
+    "objection-library",
+    "message-consistency-check",
+    "positioning-map",
+    "claim-check",
+    "customer-language-bank"
+  ]
+}

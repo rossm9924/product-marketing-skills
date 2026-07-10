@@ -41,3 +41,11 @@ The sequence is flexible, but each skill should reuse prior context and document
 - Prefer concrete deliverables over abstract advice.
 - Keep naming consistent and easy to find inside `.agents`.
 - If a requested task depends on missing upstream work, state the gap and either create the prerequisite or ask the user to choose.
+
+## The PMM Signal Pack
+
+The `pmm-signal-pack/` folder contains six evidence-synthesis skills built for
+Claude Fable 5. They read a large body of source material and return a sourced
+read of it, and they share the `.agents/product-marketing-context.md` file
+with the skills above. See `pmm-signal-pack/CLAUDE.md` for their operating
+rules.
